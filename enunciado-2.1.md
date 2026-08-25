@@ -6,6 +6,8 @@
 
 **Ferramentas a utilizar:** Claude (chat) + Claude Design
 
+
+
 **Inputs fornecidos:**
 - O cenário completo.
 - A documentação da NovaTech (ver **Anexo A**) — use para extrair os termos do domínio e identificar os bounded contexts.
