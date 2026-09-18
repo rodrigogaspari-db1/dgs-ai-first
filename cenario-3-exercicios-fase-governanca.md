@@ -1,4 +1,4 @@
-# Cenário-Âncora 3 — Fase de Governança e Validação
+# Cenário-Âncora 3 — Fase de Governança e Validação.
 
 ## Tópicos cobertos
 - Harness Engineering: HITL (Human-in-the-Loop) e Structured Outputs
